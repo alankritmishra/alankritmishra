@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">, I am Alankrit Mishra.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Alankrit Mishra.
 #### A passionate Computer Vision Researcher
 
 ![I am Alnkrit banner](https://github.com/alankritmishra/alankritmishra/blob/main/gitubbanner1.png)
