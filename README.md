@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - I enjoy learning through research and dive deep into it to find something new.
-- 💼 I design scalable ML models at [Viral Nation](https://www.capgemini.com/](https://www.viralnation.com/)
+- 💼 I design scalable ML models at [Viral Nation](https://www.viralnation.com/)
 - 🎓 Graduated my master's with an AI specialization Thesis on "Enhancing machine vision using human cognition from EEG analysis"
 - 📑 Author of [**EEG-based Image Feature Extraction for Visual Classification using Deep Learning**](https://arxiv.org/abs/2209.13090), [Searching Efficient Models for HAR](https://dl.acm.org/doi/abs/10.1145/3502803.3502809), [On Optimizing Human-Machine Task Assignments](https://arxiv.org/abs/1509.07543)
 
