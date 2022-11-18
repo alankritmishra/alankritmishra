@@ -21,15 +21,16 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - I enjoy learning through research and dive deep into it to find something new.
-- 🎓 Studying Masters Computer Science (Thesis) at Lakehead University, graduating 𝟸022
-- 💼 Former Associate Conslutant at [Capgemini](https://www.capgemini.com/)
-- 📑 Author of [**On Optimizing Human-Machine Task Assignments**](https://arxiv.org/abs/1509.07543)
+- 💼 I design scalable ML models at [Viral Nation](https://www.capgemini.com/](https://www.viralnation.com/)
+- 🎓 Graduated my master's with an AI specialization Thesis on "Enhancing machine vision using human cognition from EEG analysis"
+- 📑 Author of [EEG-based Image Feature Extraction for Visual Classification using Deep Learning](https://arxiv.org/abs/2209.13090), [Searching Efficient Models for Human Activity Recognition](https://dl.acm.org/doi/abs/10.1145/3502803.3502809), [**On Optimizing Human-Machine Task Assignments**](https://arxiv.org/abs/1509.07543)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I'm currently working on my Thesis - Computer Vision applications efficiency with help of Brain wave signals.
+- 🔨 I'm currently working on optimizing computer vision using ViTs.
+- 👯 I’m looking to collaborate on Vision transformer/ Brain machine Interface related research.
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- work on a project for smart safety sign detection with haptic and audio feedback. 
+	- work on a project for AR vision recontructive object detection. 
 	- start blogging my small POCs that I have completed this year.
 <!-- 	- 𝙼𝚊𝚔𝚎 [**𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝**](https://github.com/Raymo111/kahoot-answer-bot) 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚗𝚎𝚠 𝙺𝚊𝚑𝚘𝚘𝚝 𝚁𝙴𝚂𝚃 𝚏𝚘𝚛𝚖𝚊𝚝 𝚏𝚘𝚛 𝙰𝚜𝚜𝚒𝚐𝚗𝚎𝚍 𝙺𝚊𝚑𝚘𝚘𝚝𝚜
 	- 𝙸𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚎 `youtube-dl.py` 𝚒𝚗𝚝𝚘 [**𝚖𝚘𝚟𝚒𝚎-𝚍𝚕**](https://github.com/Raymo111/movie-dl) -->
