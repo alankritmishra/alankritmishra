@@ -52,11 +52,6 @@ Here are some ideas to get you started:
 - Pattern Recognition
 - Brain Computer Interface
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritmishra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alankritmishra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alankrit-mishra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11239688)  
