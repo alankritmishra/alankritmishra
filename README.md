@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📑 Author of [**EEG-based Image Feature Extraction for Visual Classification using Deep Learning**](https://arxiv.org/abs/2209.13090), [Searching Efficient Models for HAR](https://dl.acm.org/doi/abs/10.1145/3502803.3502809), [On Optimizing Human-Machine Task Assignments](https://arxiv.org/abs/1509.07543)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I'm currently working on designing and optimizing scalble vision models.
+- 🔨 I'm currently working on designing and optimizing scalable vision models.
 - 👯 I’m looking to collaborate on Vision transformer/ Brain machine Interface related research.
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
