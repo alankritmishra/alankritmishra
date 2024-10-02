@@ -1,55 +1,57 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Alankrit Mishra.
-#### A passionate Computer Vision Researcher
+#### A passionate Machine Learning and AI Engineer
 
-<!--
-**alankritmishra/alankritmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 About Me
 - I enjoy learning through research and dive deep into it to find something new.
-- 💼 I design scalable ML models at [Viral Nation](https://www.viralnation.com/)
+- 💼 I design and implement scalable AI solutions at [Viral Nation](https://www.viralnation.com/)
 - 🎓 Graduated my master's with an AI specialization Thesis on "Enhancing machine vision using human cognition from EEG analysis"
 - 📑 Author of [**EEG-based Image Feature Extraction for Visual Classification using Deep Learning**](https://arxiv.org/abs/2209.13090), [Searching Efficient Models for HAR](https://dl.acm.org/doi/abs/10.1145/3502803.3502809), [On Optimizing Human-Machine Task Assignments](https://arxiv.org/abs/1509.07543)
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I'm currently working on designing and optimizing scalable vision models.
-- 👯 I’m looking to collaborate on Vision transformer/ Brain machine Interface related research.
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- work on a project for AR vision recontructive object detection. 
-	- start blogging my small POCs that I have completed this year.
-<!-- 	- 𝙼𝚊𝚔𝚎 [**𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝**](https://github.com/Raymo111/kahoot-answer-bot) 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚗𝚎𝚠 𝙺𝚊𝚑𝚘𝚘𝚝 𝚁𝙴𝚂𝚃 𝚏𝚘𝚛𝚖𝚊𝚝 𝚏𝚘𝚛 𝙰𝚜𝚜𝚒𝚐𝚗𝚎𝚍 𝙺𝚊𝚑𝚘𝚘𝚝𝚜
-	- 𝙸𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚎 `youtube-dl.py` 𝚒𝚗𝚝𝚘 [**𝚖𝚘𝚟𝚒𝚎-𝚍𝚕**](https://github.com/Raymo111/movie-dl) -->
-  
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Publish a journal in [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
-	- Make my custom made Auto-pilot Drone.
-	- Meet Elon Musk
-<!-- 	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
-	- 𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎) -->
-<!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159) -->
-  
+## 🚀 Recent Achievements
+- Led development of 4 major ML projects for [VN Secure](https://www.viralnation.com/solution/secure/), enhancing brand safety in social media content
+- Engineered a multimodal AI pipeline, improving classification accuracy by 21%
+- Implemented MLOps practices, reducing model deployment time from 90 minutes to under 60 seconds
+- Developed and deployed ML models as AI microservices using Kafka and Kubernetes, enabling processing of over 7.6 million content items in 6 months (equivalent to over 23 years of manual analysis)
+
+## 🛠 Skills
+- **Machine Learning & AI:** Deep Learning, NLP, Computer Vision, Multimodal Learning, Recommendation Systems, Pattern Recognition
+- **Advanced AI Techniques:** Large Language Models, Multimodal RAG, Vector Embeddings
+- **Programming:** Python, C++, CUDA C, SQL, Java
+- **Frameworks:** TensorFlow, PyTorch, scikit-learn, YOLO, SAM, BERT, CLIP, ViT, LLaMA, LLaVA
+- **MLOps & Cloud:** AWS SageMaker, Azure ML, Docker, Kubernetes, Kafka
+
+## ⬆ What I'm up to
+- 🔨 I'm currently working on:
+  - Designing and optimizing scalable vision models
+  - Advanced multimodal RAG systems for improved context understanding
+  - Multimodal vector embedding techniques for enhanced LLM performance
+- 👯 I'm looking to collaborate on Vision transformer / Brain machine Interface / Advanced AI related research.
+- 🎯 In the near future, I plan to...
+  - Work on a project for AR vision reconstructive object detection
+  - Start blogging my small POCs that I have completed this year
+
+## 🔭 Future Goals
+- Publish in top-tier AI conferences (NeurIPS, ICML, CVPR)
+- Develop a custom-made autonomous drone with advanced AI capabilities
+- Contribute to cutting-edge AR/VR technologies integrated with state-of-the-art AI
+- Pioneer new techniques in multimodal AI for more coherent and contextually aware systems
+
 ## My Repo will Interest you if you like:
-- Artificial Intelligence
+- Multimodal Learning and Retrieval-Augmented Generation (RAG)
+- Advanced Language Models and Multimodal AI
+- MLOps and Scalable AI Solutions
 - Computer Vision
 - Machine Learning
 - Pattern Recognition
 - Brain Computer Interface
 
+Feel free to explore my projects and reach out for collaborations in cutting-edge AI research and development!
 
+## 📫 Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alankritmishra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alankrit-mishra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11239688)  
-
+<p align="left">
+  <a href="https://linkedin.com/in/alankrit-mishra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alankrit-mishra" height="30" width="40" /></a>
+  <a href="https://github.com/alankritmishra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alankritmishra" height="30" width="40" /></a>
+  <a href="https://scholar.google.ca/citations?user=-1OUFPIAAAAJ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="alankrit mishra" height="30" width="40" /></a>
+  <a href="mailto:alankrit6mishra@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="alankrit6mishra@gmail.com" height="30" width="40" /></a>
+</p>
